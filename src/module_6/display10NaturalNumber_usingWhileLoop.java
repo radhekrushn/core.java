@@ -14,10 +14,6 @@ public class display10NaturalNumber_usingWhileLoop {
 			A++;
 		}
 		
-		
-		
-		
-
 	}
 
 }
