@@ -9,7 +9,7 @@ public class FileWriterReader {
 	
 	    public static void main(String[] args) throws Exception {
 	    	
-	    	FileWriter fw = new FileWriter("top1,txt");
+	    	FileWriter fw = new FileWriter("top1.txt");
 	    	String data = "This is FileWriter and Reader Demo.";
 	    	fw.flush();
 			fw.write(data);
